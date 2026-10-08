@@ -42,7 +42,7 @@ export const navItems = [
 ] as const;
 
 export const hero = {
-  status: "OPEN TO SWE INTERNSHIPS — EUROPE & ASIA",
+  status: "OPEN TO SWE INTERNSHIPS",
   role: "Full Stack Software Engineer",
   focus: "AI & Agentic Systems",
   intro:
