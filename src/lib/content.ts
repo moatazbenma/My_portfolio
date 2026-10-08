@@ -1,7 +1,4 @@
-/**
- * All site copy and links live here. Values wrapped in [ brackets ] are
- * placeholders carried over from the approved design and still need real data.
- */
+/** All site copy, links and images live here. */
 
 import type { StaticImageData } from "next/image";
 import awardCiic from "@/assets/award-ciic.jpg";
@@ -101,11 +98,6 @@ export const featuredProject: Project = {
     {
       label: "DEPTH",
       text: "Schema-validated LLM output with retry/fallback · Celery background jobs · Redis caching and rate limiting · JWT auth with role-based access control · Excel export · Docker Compose with Nginx",
-    },
-    {
-      label: "IMPACT",
-      text: "[ Add real context — pilot site, partner, or who uses it ]",
-      placeholder: true,
     },
   ],
   tags: ["React 19", "TypeScript", "Django REST", "PostgreSQL", "Celery", "Redis", "Docker", "Gemma 3", "Cloudinary"],

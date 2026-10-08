@@ -34,13 +34,7 @@ src/
 
 ## Updating content
 
-Edit `src/lib/content.ts`. Remaining placeholders (shown in `[ brackets ]` on the page):
-
-| What | Where |
-| --- | --- |
-| Mangrove Guardian impact | `featuredProject.details` → `IMPACT` |
-
-The CV is served from `public/cv.pdf`; replace that file to update it.
+Edit `src/lib/content.ts` for all copy, links and data. Images live in `src/assets/`; replace a file with the same name to update it. The CV is served from `public/cv.pdf`.
 
 ## Deploy
 
